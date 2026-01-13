@@ -211,7 +211,7 @@ The food shows clear spoilage signs and has been stored for an extended period. 
 
 **Roshan Christopher**
 
-QA/QC- FMCGA
+QA/QC- FMCG
 
 ---
 
@@ -221,4 +221,5 @@ This project is developed **for educational and academic purposes only**.
 It should not be used as a replacement for professional food safety inspection.
 
 ---
+
 
